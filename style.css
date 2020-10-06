@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(1, 36, 36);
+}
+
+div {
+    border-radius: 15px;
+}
+
+.ideas, .set {
+    color: rgb(132, 170, 170);
+}
+
