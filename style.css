@@ -6,7 +6,7 @@ div {
     border-radius: 15px;
 }
 
-.ideas, .set, a {
+.ideas, .set, li a {
     color: rgb(132, 170, 170);
 }
 
