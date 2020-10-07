@@ -6,7 +6,12 @@ div {
     border-radius: 15px;
 }
 
-.ideas, .set {
+.ideas, .set, a {
     color: rgb(132, 170, 170);
 }
+
+.set li a {
+    text-decoration: none;
+} 
+
 
